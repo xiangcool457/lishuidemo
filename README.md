@@ -1,4 +1,6 @@
 # lishuidemo
-this is a new branch for 24r2\n
-add test 1\n
-add test 2
+this is a new branch for 24r2  
+add test 1  
+add test 2  
+add test 3  
+add test 4
